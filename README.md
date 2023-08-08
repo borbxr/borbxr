@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there👋, I'm Bryan.
 
-<!--
-**borbxr/borbxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Junior developer starting a career in Computer Science and Technology. I plan to use this repo to share my projects, improve and advance my coding skills, connect with people, and build a portafolio.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Statistical Analysis tool to predict athletes performance.
+- 🌱 I’m currently learning Kubernetes and Docker technologies.
+- 👯 I’m looking to collaborate on web3/blockchain technology projects.
+- 💬 Ask me about sports, technology, history, politics.
+- 📫 How to reach me: bor4bx@umsystem.edu
+  
+- ⚡ Fun fact: I was name after Kobe Bryant.
+
+
