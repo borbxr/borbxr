@@ -4,7 +4,7 @@ I am a Junior developer starting a career in Computer Science and Technology. I 
 
 
 
-- 🔭 I’m currently working on a Statistical Analysis tool to predict athletes performance.
+- 🔭 I’m currently working on a Statistical Analysis tool to predict athletes' performance.
 - 🌱 I’m currently learning Kubernetes and Docker technologies.
 - 👯 I’m looking to collaborate on web3/blockchain technology projects.
 - 💬 Ask me about sports, technology, history, politics.
