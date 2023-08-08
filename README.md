@@ -1,4 +1,4 @@
-### Hi there👋, I'm Bryan.
+### Hi there👋, I'm Brahian.
 
 I am a Junior developer starting a career in Computer Science and Technology. I plan to use this repo to share my projects, improve and advance my coding skills, connect with people, and build a portafolio.
 
