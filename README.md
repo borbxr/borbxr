@@ -2,7 +2,7 @@
 
 I am a Junior developer starting a career in Computer Science and Technology. I plan to use this repo to share my projects, improve and advance my coding skills, connect with people, and build a portafolio.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on a Statistical Analysis tool to predict athletes performance.
 - 🌱 I’m currently learning Kubernetes and Docker technologies.
