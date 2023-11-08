@@ -1,6 +1,6 @@
 ### Hi there👋, I'm Brahian.
 
-I am a passionate Computer Scientist and Software Engineer starting a career Technology. I plan to use this repo to share my projects, improve and advance my coding skills, connect with people, and build a portafolio.
+I am a passionate Computer Scientist and Software Engineer starting a career in Technology. I plan to use this repo to share my projects, improve and advance my coding skills, connect with people, and build a portafolio.
 
 
 
